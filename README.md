@@ -12,7 +12,7 @@
 
 * if you want to provide **command line arguments** then you should uncomment the call to the function **initialize_variables** before executing the program. After that provide some **command line arguments**
     * you are not obliged to provide all of the described **command line arguments** as long as you keep some hardcoded value for each unset argument
-    * you should provide all **command line arguments** in case you don't have any harcoded values
+    * you should provide all **command line arguments** in case you don't have any hardcoded values
 * if you don't want to provide any **command line arguments** then don't uncomment the function **initialize_variables**
     * you can use the hardcoded values or change them as you like
 
@@ -21,8 +21,8 @@
     * **some of the command line arguments set**: ***-s 640x480 -o problem19.png -bound 6*** (valid if the unset arguments have hardcoded values)
 
 **Result**
-1. ![Fractal_image_1024x1024](./zad19_1024x1024.bmp)
-* image 1. was generated when I executed the program on my machine with the hardcoded values
+* ![Fractal_image_1024x1024](./zad19_1024x1024.bmp)
+* the image above was generated when I executed the program on my machine with the hardcoded values
 
 **Remark1**: observe the parallel execution and the *time needed to compute the fractal when you use* **1 thread, 2 threads, 4 threads, 8 threads, 16 threads and 32 threads**. ***Mind your hardware parallelism when testing the program***
 
