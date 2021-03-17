@@ -21,7 +21,7 @@
     * **some of the command line arguments set**: ***-s 640x480 -o problem19.png -bound 6*** (valid if the unset arguments have hardcoded values)
 
 **Results**
-1. ![Fractal_image_1024x1024](./zad19_1024x1024)
+1. ![Fractal_image_1024x1024](./zad19_1024x1024.png)
 * image 1. was generated when I executed the program on my machine with the hardcoded values
 
 **Remark1**: observe the parallel execution and the *time needed to compute the fractal when you use* **1 thread, 2 threads, 4 threads, 8 threads, 16 threads and 32 threads**. ***Mind your hardware parallelism when testing the program***
