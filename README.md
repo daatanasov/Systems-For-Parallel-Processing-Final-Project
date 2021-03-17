@@ -20,7 +20,7 @@
     * **all command line arguments set**: ***-s 640x480 -r -2.0:2.0:-1.0:1.0 -t 4 -o problem19.png -quiet -max-iter 128 -bound 6 -dtype 3***
     * **some of the command line arguments set**: ***-s 640x480 -o problem19.png -bound 6*** (valid if the unset arguments have hardcoded values)
 
-**Results**
+**Result**
 1. ![Fractal_image_1024x1024](./zad19_1024x1024.bmp)
 * image 1. was generated when I executed the program on my machine with the hardcoded values
 
