@@ -17,8 +17,8 @@
     * you can use the hardcoded values or change them as you like
 
 * **Examples of correctly passed command line arguments**:
-    * **all command line arguments set**: ***-s 640x480 -r -2.0:2.0:-1.0:1.0 -t 4 -o problem19.png -quiet -max-iter 128 -bound 6 -dtype 3***
-    * **some of the command line arguments set**: ***-s 640x480 -o problem19.png -bound 6*** (valid if the unset arguments have hardcoded values)
+    * **all command line arguments set**: ***-s 640x480 -r -2.0:2.0:-1.0:1.0 -t 4 -o problem19.bmp -quiet -max-iter 128 -bound 6 -dtype 3***
+    * **some of the command line arguments set**: ***-s 640x480 -o problem19.bmp -bound 6*** (valid if the unset arguments have hardcoded values)
 
 **Result**
 * ![Fractal_image_1024x1024](./zad19_1024x1024.bmp)
